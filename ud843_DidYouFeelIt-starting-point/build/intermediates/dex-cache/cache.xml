@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_c1d5fb97628831079d82681b7e9389556274f9be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_1a6361956ad34dcacf7b53f5f48ef65354ea1de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1cb49692f47d9f010fa7c0c476747c36ce2f71ab">
+        <dex dex="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/pre-dexed/debug/instant-run_fe4f4d5d907e92c4193b475774ef89d0cdf8740f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_854d644c52ba4a52cd7621669610eeedc0b806a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_7b84cafba1b0f2bac39c3e35f16cae936e7acdf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_2ca2a79099c26fd8604c7b7a1ddaab4c1d620cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4e60db4c824f6b1132faf0cd8338d9858206053f">
+        <dex dex="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0b583cf11e38276c146f27c17bc5d111abf0388a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erlangga/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/erlangga/AndroidStudioProjects/ud843_DidYouFeelIt-starting-point/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_919c6fd1c435f52413274bf0ed70088c0a9110c2.jar" />
+    </item>
+
+</items>
